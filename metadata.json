@@ -1,0 +1,6 @@
+{
+  "name": "Deadline Zero",
+  "description": "An AI-powered productivity companion designed to prevent missed deadlines through early risk alerts, structured prioritization, and step-by-step action plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
