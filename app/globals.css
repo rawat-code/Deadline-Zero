@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Custom custom scrollbar and scroll styling if needed */
+@layer base {
+  body {
+    background-color: #030712;
+    color: #f3f4f6;
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  }
+}
